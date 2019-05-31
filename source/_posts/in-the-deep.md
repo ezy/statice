@@ -9,4 +9,6 @@ date: 2016-05-13 08:36:08
 tags:
 ---
 
-And there I lived Alone with my housemate Grief In the familiar way Bed-fellows, and oftentime friends
+And there I lived Alone with my housemate Grief
+In the familiar way
+Bed-fellows, and oftentime friends
