@@ -8,7 +8,8 @@ categories:
 tags:
 ---
 
-Getting back on the horse Img of me
+Getting back on the horse
+Img of me
 Eastbourne
 Auckland summary (100 words)
 energy levels
