@@ -12,7 +12,7 @@ tags:
 
 x = Mortgage amount y = Interest rate
 
-  
+
 
 **$500,000.00**
 
@@ -72,7 +72,7 @@ $1,230.77
 
 $1,384.62
 
-Assuming a deposit of 20% and an average Auckland price of around the $750K mark if the rates go up, expect to pay the interest plus capital on whatever your loan amount is. And it's not a matter of if with this one, but rather when (but let's not hope it's anytime soon). ![Fig3_large](http://ezra.keddell.co.nz/wp-content/uploads/2015/06/Fig3_large.jpg)
+Assuming a deposit of 20% and an average Auckland price of around the $750K mark if the rates go up, expect to pay the interest plus capital on whatever your loan amount is. And it's not a matter of if with this one, but rather when (but let's not hope it's anytime soon). ![Fig3_large](/images/posts/Fig3_large.jpg)
 
 ### Income fluctuation
 
@@ -80,7 +80,7 @@ A lot of families are DIKS - that is Double Income (with) Kids. So what happen
 
 #### 500k loan at 5% ($480.77 int/wk)
 
-  
+
 
 **Yearly income**
 
@@ -120,7 +120,7 @@ A lot of families are DIKS - that is Double Income (with) Kids. So what happen
 
 #### 700k loan at 5% ($673.08 int/wk)
 
-  
+
 
 Yearly income
 
@@ -162,7 +162,7 @@ Now if you factor the double whammy of one partner out of work along with a smal
 
 #### 700k loan at 6% ($807.69 int/wk)
 
-  
+
 
 Yearly income
 
@@ -204,7 +204,7 @@ And when we get back to an historically normal average of around 7.6% the figure
 
 #### 700k loan at 7.6% ($807.69 int/wk)
 
-  
+
 
 Yearly income
 
