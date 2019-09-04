@@ -24,9 +24,9 @@ Where to from here with Wellington Web?
 
 It's with a mix of emotions that I've made the decision not to take on any new business under the Wellington Web moniker. For my existing clients who have websites and hosting with me still - I'm committed to maintaining what you currently have in place indefinitely. However, It would be in your interests to review your web presence soon, as some of you need a refreshed template that's mobile device ready. For new work, I can recommend three Wellington based businesses who specialise in Wordpress for you to follow up -
 
-*   Zing - [zingdesign.com](http://marketing.passionfruit.co.nz/t/r-l-qujgky-l-i/) (best all round)
-*   Grafik - [grafik.co.nz](http://marketing.passionfruit.co.nz/t/r-l-qujgky-l-d/) (best for Wordpress design)
-*   Prefer - [prefer.co.nz](http://marketing.passionfruit.co.nz/t/r-l-qujgky-l-h/) (best for corporates)
+* Zing - [zingdesign.com](http://marketing.passionfruit.co.nz/t/r-l-qujgky-l-i/) (best all round)
+* Grafik - [grafik.co.nz](http://marketing.passionfruit.co.nz/t/r-l-qujgky-l-d/) (best for Wordpress design)
+* Prefer - [prefer.co.nz](http://marketing.passionfruit.co.nz/t/r-l-qujgky-l-h/) (best for corporates)
 
 But otherwise I'd like to thank you all sincerely for your business over the years, and I wish you all the best for the future. If we aren't already connected on Linked In, please add me to your network [nz.linkedin.com/in/ezrakeddell](http://marketing.passionfruit.co.nz/t/r-l-qujgky-l-k/).
 
@@ -44,6 +44,6 @@ From passionfruit.co.nz
 
 Since February of this year, I've been working full time building no less than 4 different web apps. I've partnered with a great developer, and we're due to start rolling them out over the next few months under the parent company brand 'Wiry'. We're mostly still in the 'cave of development' at the moment, but if you'd like to keep up with what we're doing, stay on this mailing list, as I'll be making periodic updates as we launch each web app. ![Safely](/images/posts/safely-logo.png) Which brings me to the first web app we've launched - [getsafely.com](http://marketing.passionfruit.co.nz/t/r-l-qujgky-l-u/). Think about this - who knows you well enough to tidy up your affairs if the unthinkable should happen, and something unexpected occurs in your life? Did you have an idea that needed to be preserved; or a list of all your social media accounts and passwords only you know; maybe an old friend was in your debt;  or you've always wanted to send a letter to a loved one, but were never sure of the right time; even just somewhere to put digital copies of all your important documents that people need to know about in this specific situation.
 
-#### Safely is an online service that securely stores your important information in place and sends it on to the right people in the event of the unexpected.
+**Safely is an online service that securely stores your important information in place and sends it on to the right people in the event of the unexpected.**
 
 Feel free to register an account and try it out for yourself - it's currently free to register at [go.getsafely.com](http://marketing.passionfruit.co.nz/t/r-l-qujgky-l-o/).
