@@ -11,11 +11,10 @@ tags:
 
 Super useful string of code for calling http get requests directly from the console in Chrome:
 
-    $http = angular.element(document.body).injector().get('$http');
+`$http = angular.element(document.body).injector().get('$http');`
 
 then
 
-    $http.get(...) // or post or whatever
-    
+`$http.get(...) // or post or whatever`
 
 Then test as many API request as you like.
