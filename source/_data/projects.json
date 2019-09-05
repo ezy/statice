@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Dotty",
+    "url": "http://dottyhq.com/",
+    "desc": "A free chores web app for kids "
+  },
+  {
+    "name": "Newseed",
+    "url": "https://newseed.co.nz/",
+    "desc": "A simple web presence for churches"
+  },
+  {
+    "name": "Olive Tree",
+    "url": "https://olivetree.co.nz/",
+    "desc": "Our church site running on Newseed"
+  },
+  {
+    "name": "Code coverage dash",
+    "url": "https://github.com/ezy/code-coverage-dashboard",
+    "desc": "An open source dashboard built in React for displaying code coverage"
+  },
+  {
+    "name": "Seedpress",
+    "url": "https://github.com/ezy/seedpress-cms",
+    "desc": "An open source CMS backend built in Node JS"
+  }
+]
