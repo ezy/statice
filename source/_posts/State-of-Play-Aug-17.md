@@ -1,5 +1,5 @@
 ---
-title: Ezra's State of Play - August 2017
+title: State of Play - Aug 17
 date: 2017-08-19 15:31:09
 tags:
   - newsletter

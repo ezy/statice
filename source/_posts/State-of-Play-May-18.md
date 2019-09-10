@@ -1,5 +1,5 @@
 ---
-title: State of Play - May '18
+title: State of Play - May 18
 date: 2018-05-01 16:08:40
 tags:
   - newsletter

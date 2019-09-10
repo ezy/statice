@@ -1,5 +1,5 @@
 ---
-title: Ezra's State of Play - October 2017
+title: State of Play - Oct 17
 date: 2017-10-18 15:46:29
 tags:
   - newsletter

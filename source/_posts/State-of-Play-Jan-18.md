@@ -1,5 +1,5 @@
 ---
-title: Ezra's State of Play - January 2018
+title: State of Play - Jan 18
 date: 2018-01-16 15:58:48
 tags:
   - newsletter
