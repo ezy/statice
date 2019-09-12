@@ -84,3 +84,7 @@ deploy:
   repo: https://github.com/ezy/ezy.github.io.git
   branch: master
   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
+
+sitemap:
+  path: sitemap.xml
+  template: ./sitemap_template.xml
