@@ -49,7 +49,7 @@ A few years ago [Sanjay Gupta](http://marketing.passionfruit.co.nz/t/r-l-jlpduky
 
 Charlotte of "Charlotte's Web" fame - the poster child for Medical Marijuana
 
-[https://www.youtube.com/watch?v=ThgyE-oOoWI](http://marketing.passionfruit.co.nz/t/r-l-jlpduky-l-o/)
+{% vimeo 105921747 %}
 
 # Blockchain is redefining the web as we know it
 
