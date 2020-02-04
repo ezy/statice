@@ -26,8 +26,7 @@ The Product Expert has to be someone who either knows the pains and struggles of
 
 ## The Bull Dog
 
-The Bull Dog protects the team from Management and let’s them make mistakes, solve problems without external pressure and create their own weird culture without Managements interference. Roles that often fit into this position can be many and varied: Technical Lead, Software Architect, Project Manager, Agile Coach or Business Analyst.
-Without this person the higher ups get nervous and start flapping about with worry causing a great deal of stress for everyone working on the product. If there is no Management structure  this person isn’t required, but the Product Expert will be essential.
+The Bull Dog protects the team from Management and let’s them make mistakes, solve problems without external pressure and create their own weird culture without Managements interference. Roles that often fit into this position can be many and varied: Technical Lead, Software Architect, Project Manager, Agile Coach or Business Analyst. Without this person the higher ups get nervous and start flapping about with worry causing a great deal of stress for everyone working on the product. If there is no Management structure  this person isn’t required, but the Product Expert will be essential.
 
 ## The Technical Boffin (and Legacy) Expert
 
@@ -47,4 +46,4 @@ The One That Gets Shit Done is a misnomer because it’s everyone else in the te
 
 ## Summary
 
-A large organisation with the right people who loosely fit this structure, can quite literally save millions of dollars in delivery costs, and their product has the highest chance of succeeding and being fit for market. The flow on effects of this are success. The whole thing isn’t a strict science, but more of an art which is why people are the most important aspect
+A large organisation with the right people who loosely fit this structure, can quite literally save millions of dollars in delivery costs, and their product has the highest chance of succeeding and being the best fit for market. The flow on effects of this are success. The whole thing isn’t a strict science, but more of an art. For this reason, the right people are essential to the formula, and without them you might as well not start.
