@@ -18,7 +18,7 @@ Titles or Roles in many industries are mostly meaningless, and nowhere is this m
 
 ## The Leader
 
-The Leader is person one on the project, and in charge of hiring the team. They can be any of the roles below, but they should be part of the day to day delivery of the product. There are good recruiters and HR people out there who you can hire the team - but I’ve only ever come across one, out of the hundreds I’ve met who I’d trust to build a good team of people to deliver software in an agile environment. Good leaders are hard to find, and if you do get your hands on one - hold onto them for all you’re worth.
+The Leader is usually person one on the project, and in charge of hiring the team. They can be any of the roles below, but they should be part of the day to day delivery of the product. There are good recruiters and HR people out there who you can hire the team - but I’ve only ever come across one, out of the hundreds I’ve met who I’d trust to build a good team of people to deliver software in an agile environment. Good leaders are hard to find, and if you do get your hands on one - hold onto them for all you’re worth.
 
 ## The Product Expert
 
@@ -28,7 +28,7 @@ The Product Expert has to be someone who either knows the pains and struggles of
 
 The Bull Dog protects the team from Management and let’s them make mistakes, solve problems without external pressure and create their own weird culture without Managements interference. Roles that often fit into this position can be many and varied: Technical Lead, Software Architect, Project Manager, Agile Coach or Business Analyst. Without this person the higher ups get nervous and start flapping about with worry causing a great deal of stress for everyone working on the product. If there is no Management structure  this person isn’t required, but the Product Expert will be essential.
 
-## The Technical Boffin (and Legacy) Expert
+## The Technical Boffin (and Legacy Expert)
 
 The Technical Boffin has intimate knowledge of all the companies existing systems, and more importantly - the system gatekeepers required for integration with the project. It’s essential they’re good at working well with others and have some sort of rapport with the technical gatekeepers. Humility and patience with people and the courage to ask forgiveness rather than permission in product delivery are great traits for this person. But they have a somewhat rare mix of technical and people skills. Roles that fit the bill for this are typically Architects, or Technical Leads. Without this person old legacy products in the organisation tend to get in the way of the product and start blowing out time and costs.
 
