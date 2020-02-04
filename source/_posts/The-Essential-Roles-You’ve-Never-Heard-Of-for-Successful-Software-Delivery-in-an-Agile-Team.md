@@ -26,7 +26,7 @@ The Product Expert should be someone who either knows the pains and struggles of
 
 ## The Bull Dog
 
-The Bull Dog protects the team from Management and let’s them make mistakes, solve problems without external pressure and create their own weird culture without interference. Roles that often fit into this position can be many and varied: Technical Lead, Software Architect, Project Manager, Agile Coach or Business Analyst. Without this person and in the absense of a 200 page technicaql specifiaction that only one person reads to gain power and influence - the higher ups get nervous and start flapping about with worry. This causes a great deal of stress for everyone working on the product and effects quality of delivery.
+The Bull Dog protects the team from Management and let’s them make mistakes, solve problems without external pressure and create their own weird culture without interference. Roles that often fit into this position can be many and varied: Technical Lead, Software Architect, Project Manager, Agile Coach or Business Analyst. Without this person and in the absence of a 200 page technical specifiaction that only one person reads to gain power and influence - the higher ups get nervous and start flapping about with worry. This causes a great deal of stress for everyone working on the product and effects quality of delivery.
 
 ## The Technical Boffin (and Legacy Expert)
 
