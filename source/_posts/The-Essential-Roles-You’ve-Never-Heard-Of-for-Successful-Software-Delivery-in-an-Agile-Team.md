@@ -12,13 +12,13 @@ tags:
 > What is the most important thing in the world?
 > He tangata, he tangata, he tangata
 > It is the people, it is the people, it is the people
-> - Maori proverb
+> -- Maori proverb
 
-Titles or Roles in many industries are mostly meaningless, and nowhere else is this more apparent than in software delivery. Companies will hire a person for a team with a list of “essential” and “desired” skills in the job description (JD) but mostly, 50% of what you end up doing is whatever else is required to get the job done. Over several years I’ve had the privilege of working in some great teams, and delivering some pretty amazing projects. These are the roles I’ve observed that are essential to a team’s, project’s and company’s ultimate success in Agile Software Delivery. And it’s likely you won’t see them advertised in a JD anytime soon.
+Titles or Roles in many industries are mostly meaningless, and nowhere is this more apparent than in ICT software delivery. Companies will hire a person for a team with a list of “essential” and “desired” skills in the job description (JD) but mostly, 50% of what you end up doing is outside of those lists and whatever is required to get the job done. Over several years I’ve had the privilege of working in some great teams, and delivering some pretty amazing projects. These are the roles I’ve observed that are essential to a team’s, project’s and company’s ultimate success in Agile Software Delivery. And it’s likely you won’t see them advertised in a JD anytime soon.
 
 ## The Leader
 
-The Leader is person one on the project, and in charge of hiring the team. They can be any of the roles below, but they should be part of the day to day delivery of the product. There are good recruiters and HR people out there who you can use for hiring - but I’ve only ever come across one out of the hundreds I’ve met who I’d trust to build a good team of people to deliver software in an agile environment. Good leaders are hard to find, and if you do get your hands on one - hold onto them for all you’re worth.
+The Leader is person one on the project, and in charge of hiring the team. They can be any of the roles below, but they should be part of the day to day delivery of the product. There are good recruiters and HR people out there who you can hire the team - but I’ve only ever come across one, out of the hundreds I’ve met who I’d trust to build a good team of people to deliver software in an agile environment. Good leaders are hard to find, and if you do get your hands on one - hold onto them for all you’re worth.
 
 ## The Product Expert
 
@@ -33,9 +33,9 @@ Without this person the higher ups get nervous and start flapping about with wor
 
 The Technical Boffin has intimate knowledge of all the companies existing systems, and more importantly - the system gatekeepers required for integration with the project. It’s essential they’re good at working well with others and have some sort of rapport with the technical gatekeepers. Humility and patience with people and the courage to ask forgiveness rather than permission in product delivery are great traits for this person. But they have a somewhat rare mix of technical and people skills. Roles that fit the bill for this are typically Architects, or Technical Leads. Without this person old legacy products in the organisation tend to get in the way of the product and start blowing out time and costs.
 
-## The JIRA Champion
+## The Backlog Gardener
 
-The JIRA Champion can be anyone, but whoever they are they need to own and run the ticketing system and enable the team to be autonomous at pulling work from the queue. Without them the teams efficiency and comms are greatly reduced and bottlenecks start forming throughout the work cycle. No one has as good a skillset as an autonomous team at keeping the delivery velocity high.
+The Backlog Gardener can be anyone, but whoever they are they need to own and run the ticketing system and enable the team to be autonomous at pulling work from the backlog. Without them, the teams efficiency and comms are greatly reduced and bottlenecks start forming throughout the work cycle. No one has as good a skillset as an autonomous team at keeping the delivery velocity high.
 
 ## The Team Whisperer
 
