@@ -30,7 +30,7 @@ The Bull Dog protects the team from Management and let’s them make mistakes, s
 
 ## The Technical Boffin (and Legacy Expert)
 
-The Technical Boffin has intimate knowledge of all the companies existing systems, and more importantly - the system gatekeepers required for integration with the project. It’s essential they’re good at working well with others and have some sort of rapport with the technical gatekeepers. Humility and patience with people and the courage to ask forgiveness rather than permission in product delivery are great traits for this person. But they have a somewhat rare mix of technical and people skills. Roles that fit the bill for this are typically Architects, or Technical Leads. Without this person old legacy products in the organisation tend to get in the way of the product and start blowing out time and costs.
+The Technical Boffin has intimate knowledge of all the companies existing systems, and more importantly - the system gatekeepers required for integration with the project. It’s essential they’re good at working well with others and have some sort of rapport with the technical gatekeepers. Humility and patience with people and the courage to ask forgiveness rather than permission in product delivery are great traits for this person. They need a somewhat rare mix of technical and people skills. Roles that fit the bill for this are typically Architects, or Technical Leads. Without this person legacy product integration tends to get in the way and start blowing out time and costs.
 
 ## The Backlog Gardener
 
