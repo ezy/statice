@@ -8,13 +8,13 @@ tags:
  - development
 ---
 
+Titles or Roles in many industries are mostly meaningless, and nowhere is this more apparent than in ICT software delivery. Companies will hire a person for a team with a list of “essential” and “desired” skills in the job description (JD) but mostly, 50% of what you end up doing is outside of those lists and whatever is required to get the job done. Over several years I’ve had the privilege of working in some great teams, and delivering some pretty amazing projects. These are the roles I’ve observed that are essential to a team’s, project’s and company’s ultimate success in Agile Software Delivery. And it’s likely you won’t see them advertised in a JD anytime soon.
+
 > He aha te mea nui o te ao
 > What is the most important thing in the world?
 > He tangata, he tangata, he tangata
 > It is the people, it is the people, it is the people
 > -- Maori proverb
-
-Titles or Roles in many industries are mostly meaningless, and nowhere is this more apparent than in ICT software delivery. Companies will hire a person for a team with a list of “essential” and “desired” skills in the job description (JD) but mostly, 50% of what you end up doing is outside of those lists and whatever is required to get the job done. Over several years I’ve had the privilege of working in some great teams, and delivering some pretty amazing projects. These are the roles I’ve observed that are essential to a team’s, project’s and company’s ultimate success in Agile Software Delivery. And it’s likely you won’t see them advertised in a JD anytime soon.
 
 ## The Leader
 
