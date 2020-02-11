@@ -17,9 +17,50 @@ Any new team in a green fields project without a defined architecture (almost ev
 
 **Services (similar to factories):** A constructor for reusable business logic that can be imported across the application to provide a group of methods for common use cases.
 
-**Factories (similar to services):** Similar to a service but typically returns an object for a specific use case or set of business rule.
+eg.
+
+```javascript
+const makeCounter = (start = 0) => {
+  let current = start;
+
+  const add = (value = 1) => current += value;
+  const remove = (value = 1) => current -= value;
+  const get = () => current;
+
+  return { add, remove, get };
+};
+const counter = makeCounter(10);
+
+counter.add() // 11
+counter.add() // 12
+counter.add(8) // 20
+counter.remove(10) // 10
+```
+
+**Factories (similar to services):** Similar to a service but typically returns a new object for a specific use case or set of business rules.
+
+eg.
+
+```javascript
+const buildUserObj = (firstName, surname) => ({
+  firstName,
+  surname,
+  fullName: `${firstName} ${surname}`
+});
+```
 
 **Maps/Constants:** Fixed properties that persist data state.
+
+eg.
+
+```javascript
+const carBrands = {
+  bmw: "BMW",
+  mercedes: "Mercedes",
+  alphaRomeo: "Alpha Romeo",
+  tesla: "Amazing"
+}
+```
 
 **Controllers:** Core business logic for each module.
 
