@@ -1,5 +1,5 @@
 ---
-title: The design principals behind good folder and code structure
+title: Design principals behind good folder and code structure
 date: 2020-02-10 19:19:14
 tags:
   - code
