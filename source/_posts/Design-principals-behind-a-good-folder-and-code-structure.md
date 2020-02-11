@@ -17,8 +17,6 @@ Any new team in a green fields project without a defined architecture (almost ev
 
 **Services (similar to factories):** A constructor for reusable business logic that can be imported across the application to provide a group of methods for common use cases.
 
-eg.
-
 ```javascript
 const makeCounter = (start = 0) => {
   let current = start;
@@ -39,8 +37,6 @@ counter.remove(10) // 10
 
 **Factories (similar to services):** Similar to a service but typically returns a new object for a specific use case or set of business rules.
 
-eg.
-
 ```javascript
 const buildUserObj = (firstName, surname) => ({
   firstName,
@@ -50,8 +46,6 @@ const buildUserObj = (firstName, surname) => ({
 ```
 
 **Maps/Constants:** Fixed properties that persist data state.
-
-eg.
 
 ```javascript
 const carBrands = {
