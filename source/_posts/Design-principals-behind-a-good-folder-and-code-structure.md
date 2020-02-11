@@ -11,7 +11,7 @@ Good design is always human centered. As developers we are the shepherds of byte
 
 So let's start with describing the only code structure that is right for all teams. The right code structure is the one that makes your team the most productive first. And second, follows any well established patterns and conventions in the existing code base.
 
-## Folders
+## Folder structure
 
 Any new team in a green fields project without a defined architecture (almost everyone IME) will take a bit of time to gel their patterns. And this will depend on the background and preferences of your developers. But a great starting point is to use tried and true patterns that the majority of developers should recognise loosely defined as follows:
 
