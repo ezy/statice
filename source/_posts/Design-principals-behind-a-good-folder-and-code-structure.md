@@ -7,7 +7,7 @@ tags:
   - javascript
 ---
 
-Good design is always human centered. As developers we are the shepherds of bytes and pixels, binary and exacting, but we are still messy humans. There's a great saying that "development is the art of introducing bugs to a blank file". And it's true that all the problems we encounter in the development cycle are because of people. Someone somewhere in the libraries and code delivered functionality that was imperfect for our current situation. Therefore taking a human centered approach to the many and varied design patterns in the stack of development is a key to continued harmony of team and work cycle. Because the goal, is to have a maintainable (scalable) code base (with good test coverage) that is stable and not tightly coupled (it can be split into smaller chunks easily).
+Good design is always human centered. As developers we are the shepherds of bytes and pixels, binary and exacting, but we are still messy humans. There's a great saying that "development is the art of introducing bugs to a blank file". And it's true that all the problems we encounter in the development cycle, are always because of people. Someone somewhere in our libraries and code, delivered functionality that was imperfect for our current situation. Therefore taking a human centered approach, to the many and varied design patterns in the stack of development, is a key to continued harmony of team and work cycle. The goal, is to have a maintainable (scalable) code base (with good test coverage), that is stable and not too tightly coupled (it can be split into smaller chunks easily).
 
 So let's start with describing the only code structure that is right for all teams. The right code structure is the one that makes your team the most productive first. And second, follows any well established patterns and conventions in the existing code base.
 
@@ -27,7 +27,7 @@ Any new team in a green fields project without a defined architecture (almost ev
 
 ## File naming
 
-When naming files, the format is less important than the description. File names are for humans first, and should be descriptive enough to get a clear picture of what to expect from the methods within. From there, whatever convention has been implemented - stick with it as consistency is key. My favorite format is lowercase with hyphens, including the file type: search
+When naming files, the format is less important than the description. File names are for humans first, and should be descriptive enough to get a clear picture of what to expect from the methods within. From there, whatever convention has been implemented - stick with it as consistency is key. My favourite format is lowercase with hyphens, including the file type:
 
 - file-name-description.map.js
 - file-name-description.types.js
@@ -38,10 +38,10 @@ When naming files, the format is less important than the description. File names
 
 Distinct reusable methods (objects/functions) that can be unit tested with clear input and output bring stability and confidence refactoring. Targeting data patterns or events are both good approaches related to structuring methods. Things to avoid are assuming that everyone thinks the same way as you, and being inflexible in your approach to structuring code. Following existing patterns in the code base, no matter how foreign will ultimately make you a better developer. Be as descriptive as possible in your naming convention:
 
-- `const save = (f) => {}` bad
+- `const save = (d) => {}` bad
 - `const saveFile = (data) => {}` good
 - `const saveFileInPDFFormat = (fileData) => {}` best
-- `const saveFileForExportConvertHTMLToPDFFormat = (inputFileData) => {}` ridiculous but better than bad
+- `const saveFileForExportConvertHTMLToPDFFormat = (inputFileData) => {}` OTT but better than bad
 
 ## Conclusion
 
