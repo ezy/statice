@@ -25,7 +25,7 @@ nav:
 # only 'mail' is an exception.
 social_links:
   github: http://github.com/ezy
-  twitter: http://twitter.com/ezy_irl
+  # twitter: http://twitter.com/ezy_irl
   # facebook: /
   linkedin: https://www.linkedin.com/in/ezrakeddell/
   mail: mailto:ezra@passionfruit.co.nz
