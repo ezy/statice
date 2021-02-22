@@ -1,27 +1,12 @@
 [
   {
-    "name": "Dotty",
-    "url": "http://dottyhq.com/",
-    "desc": "A free chores web app for kids "
+    "name": "Pinn.app",
+    "url": "http://pinn.app/",
+    "desc": "A micro-reporting tool for fast, regular updates from your key reports"
   },
   {
-    "name": "Newseed",
-    "url": "https://newseed.co.nz/",
-    "desc": "A simple web presence for churches"
-  },
-  {
-    "name": "Olive Tree",
-    "url": "https://www.olivetree.org.nz/",
-    "desc": "Our church site running on Newseed"
-  },
-  {
-    "name": "Code coverage dash",
-    "url": "https://github.com/ezy/code-coverage-dashboard",
-    "desc": "An open source dashboard built in React for displaying code coverage"
-  },
-  {
-    "name": "Seedpress",
-    "url": "https://github.com/ezy/seedpress-cms",
-    "desc": "An open source CMS backend built in Node JS"
+    "name": "MyMSD",
+    "url": "https://my.msd.govt.nz/",
+    "desc": "Current full-time gig leading the front-end team"
   }
 ]
